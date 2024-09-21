@@ -1,4 +1,4 @@
-# RealSense-point_cloud_process
+# RealSense
 Point cloud pre-processing for PointNetGPD & Realsense D435
 
 Based on the ROS framework, primarily designed to support PointNetGPD, but can be slightly modified to become general-purpose code.
