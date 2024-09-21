@@ -35,7 +35,7 @@ Based on the ROS framework, primarily designed to support PointNetGPD, but can b
 1. Clone the repository into your ROS workspace:
    ```bash
    cd ~/catkin_ws/src
-   git clone https://github.com/Iane14093051/RealSense-point_cloud_process.git
+   git clone https://github.com/hsylin/RealSense.git
    catkin build
    ```
    
