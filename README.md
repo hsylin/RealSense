@@ -80,3 +80,5 @@ Based on the ROS framework, primarily designed to support PointNetGPD, but can b
     radius= 0.03         # Radius for outlier removal
     subsampling_leaf_size=0.004 # Set the voxel size for down-sampling
     ```
+## Reference
+[IntelRealSense](https://github.com/IntelRealSense/realsense-ros)
